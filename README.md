@@ -1,7 +1,7 @@
 # Smart Chassis
 Smart Chassis platform for robotics and remote applications.  
 ## Control Server
-ESP32-based webserver accessible via Wi-Fi for controlling chassis manouvres:  
+ESP01-based webserver accessible via Wi-Fi for controlling chassis manouvres:  
 forwarding, 
 reversing,
 soft braking, 
